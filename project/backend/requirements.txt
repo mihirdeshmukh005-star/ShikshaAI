@@ -1,0 +1,10 @@
+fastapi>=0.116
+uvicorn[standard]>=0.35
+python-multipart>=0.0.20
+python-dotenv>=1.1
+pydantic>=2.11
+google-genai>=1.31
+pypdf>=6.0
+python-docx>=1.1
+python-pptx>=1.0
+reportlab>=4.2
